@@ -3,6 +3,7 @@
     "title": "Assets Compacter",
     "description": "Compact and minify your stylesheets and javascript files : improve performance of your forum!",
     "version": "0.1.0",
+    "keywords": ["assets", "compact", "minify", "performance", "javascript", "stylesheet"],
     "author": {
         "name": "beaver"
     }
